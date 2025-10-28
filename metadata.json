@@ -1,0 +1,5 @@
+{
+  "name": "RAG PDF Query Manual",
+  "description": "An application that allows users to upload PDF documents, parses the text and images, and enables querying the document's content using a Retrieval-Augmented Generation (RAG) approach with the Gemini API.",
+  "requestFramePermissions": []
+}
